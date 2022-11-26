@@ -2,8 +2,9 @@
 
 dbgen no DELIMITER in the line end
 
-test
+## test
 
+'''
 ./dbgen -T r -s 1 -vf
 
 ~/tpch/tpch-mysql/dbgen$ cat region.tbl
@@ -12,3 +13,4 @@ test
 2|ASIA|ges. thinly even pinto beans ca
 3|EUROPE|ly final courts cajole furiously final excuse
 4|MIDDLE EAST|uickly special accounts cajole carefully blithely close requests. carefully final asymptotes haggle furiousl
+'''
